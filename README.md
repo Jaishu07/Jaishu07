@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! I'm Yashwant sharma, frontend developer and probalm solver
 
-<!--
-**Jaishu07/Jaishu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![linkedin Follow](https://www.linkedin.com/in/yashwantharma/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### aboutMe.js
+
+```javascript
+const yashwant= {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS ,c, c++],
+    askMeAbout: ["web dev", "tech",, "music", "coffee", "video games"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["firebase"]
+        }        
+    }
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
